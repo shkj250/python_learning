@@ -13,3 +13,8 @@ class Person:
         self.age = 20   
     def info(self):
         return f"姓名：{self.name}，年龄：{self.age}"
+    def set_name(self,name):
+        self.name = name
+    def set_age(self,age):
+        self.age = age
+    
