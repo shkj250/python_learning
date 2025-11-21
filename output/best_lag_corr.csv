@@ -1,0 +1,4 @@
+﻿pair,best_lag_h,corr
+station_antwerp~station_paris,17,0.2825
+station_paris~station_london,-13,0.1631
+station_antwerp~station_london,-14,0.1052
